@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-### Hi there 👋
-
 - 🌚 Have nothing done 
 - 🤖 Work on the software enginnering
 
