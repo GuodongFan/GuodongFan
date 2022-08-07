@@ -3,9 +3,8 @@
 
 ### Hi there 👋
 
-- 🌚 Have nothing done but have fun
-- 🤖 Work on the dialogue system currently
-- 🐰 Plan for a gap year
+- 🌚 Have nothing done 
+- 🤖 Work on the software enginnering
 
 
 [![BigBinnie's github stats](https://i-github-readme-stats.vercel.app/api?username=guodongfan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
